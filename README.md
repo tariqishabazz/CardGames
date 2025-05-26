@@ -8,7 +8,12 @@ This Java project demonstrates the use of Abstraction and Inheritance to create 
 3. Run either game, CardGuess or SolitaireUno
    
 ## Features
-- Starts a new custom card game
+- Classes
+- Objects
+- Abstraction
+- Inheritance
+- Loops
+- Enums
 
 ## Author
 Tariq
